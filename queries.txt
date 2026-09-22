@@ -1,0 +1,23 @@
+10 ?- mother(narjis, hawra).
+true.
+
+11 ?- mother(zainab, fatimah).
+false.
+
+12 ?- father(hussain, ali).
+true.
+
+13 ?- father(narjis, khaola).
+false.
+
+14 ?- sister(ali, zainab).
+false.
+
+15 ?- sister(zainab, ali).
+true .
+
+16 ?- brother(roqayah, mohammad).
+false.
+
+17 ?- brother(mohammad, roqayah).
+true .
